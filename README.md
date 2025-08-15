@@ -1,5 +1,9 @@
 # Spring Weather App
 
+![Weather Index](weather-index.png)
+![Weather Result](weather-result.png)
+
+
 Spring Boot ile geliştirilmiş basit ve modern bir hava durumu uygulamasıdır.  
 Kullanıcılar şehir adı girerek, OpenWeatherMap API üzerinden sıcaklık, nem, hava durumu açıklaması ve hissedilen sıcaklık bilgilerini görebilir.
 
