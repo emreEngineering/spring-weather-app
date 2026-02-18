@@ -1,0 +1,19 @@
+﻿# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+out/
+target/
+build/
+
+# Maven
+.mvn/timing.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
